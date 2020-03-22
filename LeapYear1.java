@@ -1,10 +1,8 @@
 package lesson2;
 
-public class Year {
+public class LeapYear1 {
 
     public static void main(String[] args) {
-
-
 
 
         for(int year=1000;year<=2000;year++){
